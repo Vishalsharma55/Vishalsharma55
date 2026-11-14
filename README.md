@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi there, I'm Vishal Sharma 👋
 
-<!--
-**Vishalsharma55/Vishalsharma55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education:** B.Sc. (Hons) Computer Science at **Ramanujan College, University of Delhi**  
+🏔️ **Hometown:** Teryath, Jammu & Kashmir | Currently in **New Delhi, India**  
+💻 **Tech Interests:** Programming, Web Development, Data Structures & Software Engineering  
+🎶 **Beyond Code:** Passionate singer and musician  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect With Me
+- **Personal Homepage:** [about.me/vishalsharma.in](https://about.me)
+- **Instagram:** [@vishalsharma.in](https://instagram.com)
+- 
